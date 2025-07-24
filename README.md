@@ -45,6 +45,7 @@ ________________________________________
 <img width="469" height="588" alt="dashboard_tb" src="https://github.com/user-attachments/assets/fc67c0be-65ee-43ba-bbc6-a160e7e41185" />
 
 📂 Dataset Utilizado
+
 Nombre: Incidencia Global de Tuberculosis por País, Género y Año (1993–2014)
 Fuente: Organización Mundial de la Salud (WHO)
 
