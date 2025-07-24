@@ -37,5 +37,5 @@ o	En el año más reciente, el top 10 de países con mayor tasa de incidencia in
 
 ________________________________________
 🧠 **Conclusión**
-El análisis revela que la tuberculosis no solo ha disminuido globalmente, sino que también muestra una distribución desigual entre países. Aquellos con tasas más altas —principalmente en África y Asia— enfrentan retos estructurales como el acceso limitado a servicios de salud, pobreza, y políticas de prevención insuficientes. Esta realidad subraya la importancia de adaptar los esfuerzos globales a las necesidades locales y priorizar los recursos en donde más se necesiten. Comprender esta disparidad es fundamental para combatir eficazmente la enfermedad y reducir su impacto a nivel mundial.
+El análisis revela que la tuberculosis no solo ha disminuido globalmente, sino que también muestra una distribución desigual entre países. Aquellos con tasas más altas, principalmente en África y Asia,  enfrentan retos estructurales como el acceso limitado a servicios de salud, pobreza, y políticas de prevención insuficientes. Esta realidad muestra la importancia de adaptar los esfuerzos globales a las necesidades locales y priorizar los recursos en donde más se necesiten, para combatir eficazmente la enfermedad y reducir su impacto a nivel mundial.
 ________________________________________
