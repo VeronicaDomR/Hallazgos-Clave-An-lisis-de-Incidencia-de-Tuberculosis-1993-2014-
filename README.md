@@ -48,4 +48,8 @@ ________________________________________
 Nombre: Incidencia Global de Tuberculosis por País, Género y Año (1993–2014)
 Fuente: Organización Mundial de la Salud (WHO)
 
-📎 [Ver el Dataset aquí](https://drive.google.com/file/d/19vOPjgGBlND6EyXCUfTNmy9f37tqEMKl/view?usp=drive_link))
+📎 [Ver el Dataset aquí](https://drive.google.com/file/d/19vOPjgGBlND6EyXCUfTNmy9f37tqEMKl/view?usp=drive_link)
+
+
+Video de Loom 
+📎 [Ver video del Dashboard aquí](https://www.loom.com/share/9f877ab8200d4025b2f84f4ebe926d37?sid=677de39c-dfa2-4fff-94eb-820fe063cbca)
