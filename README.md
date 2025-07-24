@@ -27,8 +27,7 @@ o	La tasa de incidencia suele ser más alta en hombres que en mujeres, lo cual p
 o	El mapa geográfico revela concentraciones altas en regiones específicas, principalmente en Asia y África.
 5.	Top 10 países por incidencia
 o	En el año más reciente, el top 10 de países con mayor tasa de incidencia incluye: Lesotho, Mozambique, Filipinas, República Centroafricana, Sudáfrica, Namibia, Zambia, Papúa Nueva Guinea, Angola y Camboya. Esta visualización permite identificar focos críticos de atención.
-6.	Análisis Detallado con Tooltips
-o	Las visualizaciones incluyen tooltips personalizados con detalles de país, casos, población e incidencia para enriquecer la exploración.
+
 
 📌 **Visualizaciones Incluidas en Tableau**
 •	Tendencia global de incidencia por año
