@@ -39,3 +39,6 @@ ________________________________________
 🧠 **Conclusión**
 El análisis revela que la tuberculosis no solo ha disminuido globalmente, sino que también muestra una distribución desigual entre países. Aquellos con tasas más altas, principalmente en África y Asia,  enfrentan retos estructurales como el acceso limitado a servicios de salud, pobreza, y políticas de prevención insuficientes. Esta realidad muestra la importancia de adaptar los esfuerzos globales a las necesidades locales y priorizar los recursos en donde más se necesiten, para combatir eficazmente la enfermedad y reducir su impacto a nivel mundial.
 ________________________________________
+
+📷 **Vista del Dashboard Interactivo en Tableau**
+<img width="469" height="588" alt="dashboard_tb" src="https://github.com/user-attachments/assets/fc67c0be-65ee-43ba-bbc6-a160e7e41185" />
