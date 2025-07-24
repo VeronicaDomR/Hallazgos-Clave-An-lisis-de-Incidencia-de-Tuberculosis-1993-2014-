@@ -1,4 +1,4 @@
-# Hallazgos Clave – Análisis de Incidencia de Tuberculosis (1993–2014)lisis de la Incidencia de Tuberculosis
+# Hallazgos Clave – Análisis de Incidencia de Tuberculosis (1993–2014)
 
 Este proyecto explora la incidencia de la tuberculosis a nivel mundial utilizando datos de la OMS y de población. A través de Python para la limpieza y análisis, y Tableau para la visualización, se identifican patrones clave en la propagación de la enfermedad.
 
